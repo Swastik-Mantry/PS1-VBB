@@ -42,7 +42,8 @@ for x in range(0, no_of_events):
     month = (time[x][5:7])
     year = (time[x][0:4])
 
-    # Name and Location of the file you want to store it as
+    # Name and Location of the bash script. 
+    # ONLY SAVE IT IN THE LOCATION OF GMEETRECORDER  - Edit "/home/swastik/Git/vbb/GMeetRecorder/"
     name = "/home/swastik/Git/vbb/GMeetRecorder/" + links[x][24:] + day + month + ".sh" # Edit it as the "path where you want to store the recording" + "name of the file(s)"
 
     # Checking if the script exists if so, the event is already taken into account
