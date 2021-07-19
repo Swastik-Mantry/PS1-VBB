@@ -1,6 +1,6 @@
 # PS1-VBB
 ![Cocoapods platforms](https://img.shields.io/badge/Plaform-linux%20%7C%20osx-green)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![GitHub](https://img.shields.io/github/license/Swastik-Mantry/PS1-VBB?color=blue)
 ### Need to be used in conjunction with [GMeetRecorder by Alexandre P J](https://github.com/Alexandre-P-J/GMeetRecorder)
 Scripting of GMeetRecorder such that it automatically joins and records google meets scheduled in your google calendar
 ## Go to [Google Apps Script](https://script.google.com/home/start)
